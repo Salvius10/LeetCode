@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Salvius10/LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Salvius10/LeetCode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/Salvius10/LeetCode/tree/master/0268-missing-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Salvius10/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Salvius10/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Salvius10/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Salvius10/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Salvius10/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Salvius10/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Salvius10/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Counting
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Salvius10/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Salvius10/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Salvius10/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Salvius10/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Salvius10/LeetCode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Salvius10/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1293-three-consecutive-odds](https://github.com/Salvius10/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -108,10 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Salvius10/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Salvius10/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Salvius10/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Salvius10/LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Salvius10/LeetCode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Salvius10/LeetCode/tree/master/0268-missing-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -128,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Salvius10/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Salvius10/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
