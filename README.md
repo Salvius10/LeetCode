@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Salvius10/LeetCode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Salvius10/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1293-three-consecutive-odds](https://github.com/Salvius10/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Salvius10/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Salvius10/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3194-find-words-containing-character](https://github.com/Salvius10/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Divide and Conquer
@@ -133,12 +134,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Salvius10/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Salvius10/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Salvius10/LeetCode/tree/master/0268-missing-number) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Salvius10/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Salvius10/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Salvius10/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Salvius10/LeetCode/tree/master/0268-missing-number) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Salvius10/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Monotonic Stack
 |  |
 | ------- |
