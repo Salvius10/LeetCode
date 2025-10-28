@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Salvius10/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Salvius10/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Salvius10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Salvius10/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Salvius10/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Salvius10/LeetCode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Salvius10/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Salvius10/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Salvius10/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Salvius10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Salvius10/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0861-flipping-an-image](https://github.com/Salvius10/LeetCode/tree/master/0861-flipping-an-image) |
 ## String Matching
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Salvius10/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Salvius10/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Salvius10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Salvius10/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Salvius10/LeetCode/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/Salvius10/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Salvius10/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Salvius10/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Salvius10/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Salvius10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Salvius10/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Salvius10/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Salvius10/LeetCode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Salvius10/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -162,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Salvius10/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Salvius10/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Salvius10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Salvius10/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Salvius10/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Monotonic Stack
 |  |
