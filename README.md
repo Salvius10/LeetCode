@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Salvius10/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Salvius10/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Salvius10/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/Salvius10/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Salvius10/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Salvius10/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Salvius10/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Salvius10/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Salvius10/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Salvius10/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/Salvius10/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Salvius10/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Salvius10/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Salvius10/LeetCode/tree/master/0242-valid-anagram) |
@@ -238,4 +240,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Salvius10/LeetCode/tree/master/0861-flipping-an-image) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Salvius10/LeetCode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Salvius10/LeetCode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
