@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/Salvius10/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Salvius10/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Salvius10/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Salvius10/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Salvius10/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Salvius10/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Salvius10/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Salvius10/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Salvius10/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Salvius10/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Salvius10/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Salvius10/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Salvius10/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1970-sorting-the-sentence](https://github.com/Salvius10/LeetCode/tree/master/1970-sorting-the-sentence) |
@@ -270,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Salvius10/LeetCode/tree/master/0164-maximum-gap) |
+## Greedy
+|  |
+| ------- |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Salvius10/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 <!---LeetCode Topics End-->
