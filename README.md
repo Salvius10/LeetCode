@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Salvius10/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Salvius10/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Salvius10/LeetCode/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/Salvius10/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Salvius10/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Salvius10/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Salvius10/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Salvius10/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Salvius10/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Salvius10/LeetCode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Salvius10/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Salvius10/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Salvius10/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Salvius10/LeetCode/tree/master/0268-missing-number) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Salvius10/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Salvius10/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Salvius10/LeetCode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Salvius10/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Salvius10/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Salvius10/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Salvius10/LeetCode/tree/master/0268-missing-number) |
@@ -275,5 +278,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Salvius10/LeetCode/tree/master/0179-largest-number) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Salvius10/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 <!---LeetCode Topics End-->
