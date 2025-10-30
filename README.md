@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Salvius10/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Salvius10/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Salvius10/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Salvius10/LeetCode/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/Salvius10/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Salvius10/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Salvius10/LeetCode/tree/master/0179-largest-number) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Salvius10/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Salvius10/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Salvius10/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Salvius10/LeetCode/tree/master/0645-set-mismatch) |
