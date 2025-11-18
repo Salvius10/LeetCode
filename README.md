@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Salvius10/LeetCode/tree/master/0389-find-the-difference) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Salvius10/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0841-shortest-distance-to-a-character](https://github.com/Salvius10/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
+| [0874-backspace-string-compare](https://github.com/Salvius10/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1970-sorting-the-sentence](https://github.com/Salvius10/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [3194-find-words-containing-character](https://github.com/Salvius10/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Stack
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Salvius10/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Salvius10/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Salvius10/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0874-backspace-string-compare](https://github.com/Salvius10/LeetCode/tree/master/0874-backspace-string-compare) |
 ## Design
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Salvius10/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0841-shortest-distance-to-a-character](https://github.com/Salvius10/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/Salvius10/LeetCode/tree/master/0861-flipping-an-image) |
+| [0874-backspace-string-compare](https://github.com/Salvius10/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/Salvius10/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Salvius10/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Salvius10/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Salvius10/LeetCode/tree/master/0861-flipping-an-image) |
+| [0874-backspace-string-compare](https://github.com/Salvius10/LeetCode/tree/master/0874-backspace-string-compare) |
 ## Bucket Sort
 |  |
 | ------- |
