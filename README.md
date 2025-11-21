@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Salvius10/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Salvius10/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Salvius10/LeetCode/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/Salvius10/LeetCode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Salvius10/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Salvius10/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Salvius10/LeetCode/tree/master/0242-valid-anagram) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Salvius10/LeetCode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Salvius10/LeetCode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Salvius10/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Salvius10/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Salvius10/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
