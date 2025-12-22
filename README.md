@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Salvius10/LeetCode/tree/master/0861-flipping-an-image) |
 | [1019-squares-of-a-sorted-array](https://github.com/Salvius10/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/Salvius10/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Salvius10/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Salvius10/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Salvius10/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Salvius10/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
