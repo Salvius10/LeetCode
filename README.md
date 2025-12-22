@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Salvius10/LeetCode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Salvius10/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Salvius10/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Salvius10/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Salvius10/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Salvius10/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Recursion
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/Salvius10/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/Salvius10/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Salvius10/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Salvius10/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1666-make-the-string-great](https://github.com/Salvius10/LeetCode/tree/master/1666-make-the-string-great) |
 | [1768-merge-strings-alternately](https://github.com/Salvius10/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1970-sorting-the-sentence](https://github.com/Salvius10/LeetCode/tree/master/1970-sorting-the-sentence) |
