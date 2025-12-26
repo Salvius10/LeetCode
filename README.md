@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Salvius10/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Salvius10/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Salvius10/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/Salvius10/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Salvius10/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Salvius10/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Salvius10/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/Salvius10/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [3194-find-words-containing-character](https://github.com/Salvius10/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Divide and Conquer
 |  |
@@ -353,12 +355,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Salvius10/LeetCode/tree/master/0861-flipping-an-image) |
+| [2352-equal-row-and-column-pairs](https://github.com/Salvius10/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Salvius10/LeetCode/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/Salvius10/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Salvius10/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2352-equal-row-and-column-pairs](https://github.com/Salvius10/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Salvius10/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/Salvius10/LeetCode/tree/master/3447-clear-digits) |
 ## Bucket Sort
