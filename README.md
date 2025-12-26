@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Salvius10/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1970-sorting-the-sentence](https://github.com/Salvius10/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2128-reverse-prefix-of-word](https://github.com/Salvius10/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2390-removing-stars-from-a-string](https://github.com/Salvius10/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Salvius10/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3194-find-words-containing-character](https://github.com/Salvius10/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3447-clear-digits](https://github.com/Salvius10/LeetCode/tree/master/3447-clear-digits) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1666-make-the-string-great](https://github.com/Salvius10/LeetCode/tree/master/1666-make-the-string-great) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Salvius10/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2128-reverse-prefix-of-word](https://github.com/Salvius10/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2390-removing-stars-from-a-string](https://github.com/Salvius10/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Salvius10/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/Salvius10/LeetCode/tree/master/3447-clear-digits) |
 ## Design
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Salvius10/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Salvius10/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2352-equal-row-and-column-pairs](https://github.com/Salvius10/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
+| [2390-removing-stars-from-a-string](https://github.com/Salvius10/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Salvius10/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/Salvius10/LeetCode/tree/master/3447-clear-digits) |
 ## Bucket Sort
