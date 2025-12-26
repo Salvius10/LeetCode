@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Salvius10/LeetCode/tree/master/0525-contiguous-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Salvius10/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Salvius10/LeetCode/tree/master/0645-set-mismatch) |
+| [1207-unique-number-of-occurrences](https://github.com/Salvius10/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Salvius10/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Salvius10/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Salvius10/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Salvius10/LeetCode/tree/master/0861-flipping-an-image) |
 | [1004-max-consecutive-ones-iii](https://github.com/Salvius10/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Salvius10/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1207-unique-number-of-occurrences](https://github.com/Salvius10/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1293-three-consecutive-odds](https://github.com/Salvius10/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Salvius10/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Salvius10/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
