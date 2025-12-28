@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Salvius10/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Salvius10/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Salvius10/LeetCode/tree/master/0443-string-compression) |
+| [0455-assign-cookies](https://github.com/Salvius10/LeetCode/tree/master/0455-assign-cookies) |
 | [0841-shortest-distance-to-a-character](https://github.com/Salvius10/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/Salvius10/LeetCode/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/Salvius10/LeetCode/tree/master/0874-backspace-string-compare) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Salvius10/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Salvius10/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Salvius10/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/Salvius10/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Salvius10/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Salvius10/LeetCode/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/Salvius10/LeetCode/tree/master/0525-contiguous-array) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Salvius10/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Salvius10/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Salvius10/LeetCode/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/Salvius10/LeetCode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Salvius10/LeetCode/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Salvius10/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Salvius10/LeetCode/tree/master/0645-set-mismatch) |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Salvius10/LeetCode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Salvius10/LeetCode/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Salvius10/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0455-assign-cookies](https://github.com/Salvius10/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Salvius10/LeetCode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Salvius10/LeetCode/tree/master/0649-dota2-senate) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Salvius10/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
