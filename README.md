@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Salvius10/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Salvius10/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/Salvius10/LeetCode/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Salvius10/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Salvius10/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Salvius10/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Salvius10/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/Salvius10/LeetCode/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Salvius10/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Salvius10/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Bit Manipulation
 |  |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Salvius10/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Salvius10/LeetCode/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/Salvius10/LeetCode/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Salvius10/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Salvius10/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Salvius10/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Salvius10/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Salvius10/LeetCode/tree/master/0392-is-subsequence) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Salvius10/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Salvius10/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Heap (Priority Queue)
 |  |
