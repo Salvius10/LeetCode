@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Salvius10/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1970-sorting-the-sentence](https://github.com/Salvius10/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2128-reverse-prefix-of-word](https://github.com/Salvius10/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/Salvius10/LeetCode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Salvius10/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Salvius10/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3194-find-words-containing-character](https://github.com/Salvius10/LeetCode/tree/master/3194-find-words-containing-character) |
