@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Salvius10/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Salvius10/LeetCode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Salvius10/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Salvius10/LeetCode/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Salvius10/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Salvius10/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Salvius10/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Salvius10/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Salvius10/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Salvius10/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/Salvius10/LeetCode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Salvius10/LeetCode/tree/master/0394-decode-string) |
 ## String
 |  |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Salvius10/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Salvius10/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Salvius10/LeetCode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Salvius10/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Salvius10/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Salvius10/LeetCode/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/Salvius10/LeetCode/tree/master/0861-flipping-an-image) |
