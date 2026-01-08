@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/Salvius10/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1666-make-the-string-great](https://github.com/Salvius10/LeetCode/tree/master/1666-make-the-string-great) |
 | [1768-merge-strings-alternately](https://github.com/Salvius10/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Salvius10/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1970-sorting-the-sentence](https://github.com/Salvius10/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2128-reverse-prefix-of-word](https://github.com/Salvius10/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Salvius10/LeetCode/tree/master/2264-largest-3-same-digit-number-in-string) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Salvius10/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1732-find-the-highest-altitude](https://github.com/Salvius10/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Salvius10/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Salvius10/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Salvius10/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Salvius10/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Salvius10/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Salvius10/LeetCode/tree/master/0525-contiguous-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Salvius10/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/Salvius10/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Salvius10/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Interactive
 |  |
 | ------- |
