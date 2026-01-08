@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Salvius10/LeetCode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Salvius10/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Salvius10/LeetCode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Salvius10/LeetCode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Salvius10/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0897-increasing-order-search-tree](https://github.com/Salvius10/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [1021-remove-outermost-parentheses](https://github.com/Salvius10/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Salvius10/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Salvius10/LeetCode/tree/master/0645-set-mismatch) |
 | [0735-asteroid-collision](https://github.com/Salvius10/LeetCode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Salvius10/LeetCode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Salvius10/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Salvius10/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0841-shortest-distance-to-a-character](https://github.com/Salvius10/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Salvius10/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Salvius10/LeetCode/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
 | ------- |
