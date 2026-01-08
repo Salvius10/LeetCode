@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Salvius10/LeetCode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Salvius10/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0897-increasing-order-search-tree](https://github.com/Salvius10/LeetCode/tree/master/0897-increasing-order-search-tree) |
+| [0901-online-stock-span](https://github.com/Salvius10/LeetCode/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/Salvius10/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1666-make-the-string-great](https://github.com/Salvius10/LeetCode/tree/master/1666-make-the-string-great) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Salvius10/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Salvius10/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Salvius10/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/Salvius10/LeetCode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Salvius10/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Salvius10/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Salvius10/LeetCode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Salvius10/LeetCode/tree/master/0901-online-stock-span) |
 ## Tree
 |  |
 | ------- |
@@ -532,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Salvius10/LeetCode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Salvius10/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Backtracking
 |  |
