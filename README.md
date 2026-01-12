@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Salvius10/LeetCode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Salvius10/LeetCode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Salvius10/LeetCode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/Salvius10/LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Salvius10/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Salvius10/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Salvius10/LeetCode/tree/master/0242-valid-anagram) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Salvius10/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Salvius10/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Salvius10/LeetCode/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/Salvius10/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Salvius10/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Salvius10/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Salvius10/LeetCode/tree/master/0169-majority-element) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Salvius10/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Salvius10/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Salvius10/LeetCode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Salvius10/LeetCode/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/Salvius10/LeetCode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Salvius10/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Salvius10/LeetCode/tree/master/0169-majority-element) |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Salvius10/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Salvius10/LeetCode/tree/master/0139-word-break) |
 ## Matrix
 |  |
 | ------- |
@@ -514,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Salvius10/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Salvius10/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Salvius10/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/Salvius10/LeetCode/tree/master/0139-word-break) |
 | [0338-counting-bits](https://github.com/Salvius10/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Salvius10/LeetCode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Salvius10/LeetCode/tree/master/0647-palindromic-substrings) |
@@ -550,5 +555,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Salvius10/LeetCode/tree/master/0139-word-break) |
 | [1137-n-th-tribonacci-number](https://github.com/Salvius10/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
