@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Salvius10/LeetCode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Salvius10/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Salvius10/LeetCode/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/Salvius10/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Salvius10/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Salvius10/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Salvius10/LeetCode/tree/master/1137-n-th-tribonacci-number) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Salvius10/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Salvius10/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Salvius10/LeetCode/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/Salvius10/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Salvius10/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Salvius10/LeetCode/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/Salvius10/LeetCode/tree/master/0861-flipping-an-image) |
